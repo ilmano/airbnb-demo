@@ -21,7 +21,8 @@ function Banner() {
                 my-3 
                 hover:shadow-xl
                 active:scale-90
-                transition duration-150'>I&aposm Flexible</button>
+                transition duration-150'>
+                    <p>{"I'm Flexible"}</p></button>
             </div>
 
 
